@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jiayingliang1420@gmail.com
+	name = Jiaying Liang
